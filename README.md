@@ -1,6 +1,6 @@
-#Here is a header
-##This is a subheader
-####This is a smaller Subheader
+# Here is a header
+## This is a subheader
+#### This is a smaller subheader
 
 Markdown files can be used to format text. 
 **Here is some bold text.**
